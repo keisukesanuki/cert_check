@@ -3,7 +3,7 @@
                 <head>
                         <mera charset = "UFT-8">
                         <link rel="stylesheet" href="./default.css" type="text/css">
-                <title>load tool</title>
+                <title>cert_check tool</title>
                 </head>
         <body>
                 <h4>証明書の整合性確認</h4>

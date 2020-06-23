@@ -23,7 +23,8 @@ git clone https://github.com/keisukesanuki/cert_check.git
 ### 権限変更
 
 ```
-chown apache cert_check
+mkdir cert_check/app/files
+chown apache cert_check -R
 ```
 
 ### ブラウザから接続
